@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/eswar/brew_crew/BuildConfig.java
+ com.eswar.brew_crew.BuildConfig
